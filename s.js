@@ -1,1 +1,1 @@
-alert("Hello! This is an alert.");
+console.log("hello")
